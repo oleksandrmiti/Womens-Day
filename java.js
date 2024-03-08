@@ -10,7 +10,8 @@ document.addEventListener("DOMContentLoaded", function() {
     const texts = [
         "С Международным Женским Днем!", // Russian
         "З Міжнародним жіночим днем!",     // Ukrainian
-        "Happy International Women's Day!" // English
+        "Happy International Women's Day!", // English
+        "Alles Gute zum Internationalen Frauentag!" // German
     ];
     let currentIndex = 0;
 
